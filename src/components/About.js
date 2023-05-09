@@ -6,6 +6,7 @@ const About =  () => {
     return ( 
         <div>
             This is About  {a.name}
+            console.log("hello")
         </div>
      )
 }
